@@ -1,0 +1,23 @@
+# system
+    You are a helpful assistant with a strong background in linguistics.
+# user
+    Below is an example sentence in [language] and a set of of changes to apply to it.
+    I will provide examples and information about [language], followed by the problem sentence and desired change.
+    Your task is to look closely at the example sentences and information provided in order to change the sentence correctly.
+
+    # start examples
+    Example [$index]: 
+    Sentence: [example_source] 
+    Change(s): [example_change]
+    Answer: [example_target]
+    # end examples
+
+    Hints:
+    [hints]
+
+    Here is the problem.
+    Sentence: [source] 
+    Change(s): [change]
+
+    Give your prediction before explaining.
+    Answer:

@@ -1,0 +1,18 @@
+# system
+    You are a helpful assistant with a strong background in linguistics.
+# user
+    This is a linguistic puzzle.  Below are example sentences in a foreign language and sets of changes to apply to them.
+    The examples are followed by the problem sentence and desired change.
+    Your task is to look closely at the example sentences and to change the sentence correctly.
+
+    # start examples
+    Example [$index]: 
+    Sentence: [example_source] ([example_tagged_source])
+    Change(s): [example_change]
+    Answer: [example_target] ([example_tagged_target])
+    # end examples
+
+    Here is the problem.  Answer first, then explain your reasoning.
+    Sentence: [source] ([tagged_source])
+    Change(s): [change]
+    Hint: [hint]

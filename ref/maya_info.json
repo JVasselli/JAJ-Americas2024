@@ -1,0 +1,6 @@
+{
+    "STATUS:CMP": "To mark actions that have been completed, \"naj\" is added to the verb after the root, but before conjugating for person.  Ex:\nJanalen (I eat) -> Janalnajen (I ate).\nJanalech -> Janalnajech\nJanal -> Janalnaj...",
+    "STATUS:ICM": "To mark actions that have been completed, \"naj\" is added to the verb after the root, but before conjugating for person.  Ex:\nJanalen (I eat) -> Janalnajen (I ate).\nJanalech -> Janalnajech\nJanal -> Janalnaj... If \"naj\" is present in the verb, remove it to make the status incomplete.",
+    "TYPE:NEG": "To make a sentence negative, add a ma' to the beginning of the sentence, after the personal pronoun if applicable.  An \"i'\" is added to the end of the sentence,attached to the last word: Teche' a k'aaba' -> Teche' ma' a k'aaba'i'.",
+    "ASPECT:IMM": "To indicate that an action is happening right now, the aspect marker is táant.  A unique feature of táant is that a \"e'\" is added to the end of the sentence attached to the last word: Táan in suut koonol merkaado -> Táant in suut koonol merkaadoe'."
+}
