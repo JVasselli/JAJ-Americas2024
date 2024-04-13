@@ -1,5 +1,7 @@
-# JAJ-Americas2024
-Our submission to the AmericasNLP 2024 Shared Task 2
+# Our submission to the AmericasNLP 2024 Shared Task 2
+
+## JAJ (/dʒæz/)
+Justin - Arturo - June
 
 ## Note
 This system runs by prompting LLMs.  It currently supports:
