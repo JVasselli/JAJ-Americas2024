@@ -1,4 +1,4 @@
-# Our submission to the AmericasNLP 2024 Shared Task 2
+# AmericasNLP 2024 Shared Task 2
 
 ## JAJ (/dʒæz/)
 Justin - Arturo - June
